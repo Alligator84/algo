@@ -1,4 +1,7 @@
-package ru.oyudin.sprint2;
+package ru.oyudin.sprint2.mother;
+
+import ru.oyudin.sprint2.mother.Node;
+import ru.oyudin.sprint2.mother.Solution2;
 
 public class Test {
 

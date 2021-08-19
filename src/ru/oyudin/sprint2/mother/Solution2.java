@@ -1,4 +1,4 @@
-package ru.oyudin.sprint2;
+package ru.oyudin.sprint2.mother;
 
 class Node<V> {
     public V value;
